@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89c9bd87-6590-4781-8c5c-59e24378014c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Numeric_Matrix_Processor" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hBl9ZXxM6kwisSTj6iNK6gzZBf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Numeric_Matrix_Processor.Problems-The_angle_between_vectors.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="processor.Main" />
+      <module name="Numeric_Matrix_Processor.Numeric_Matrix_Processor-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c9bd87-6590-4781-8c5c-59e24378014c" name="Default Changelist" comment="" />
+      <created>1599492216435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599492216435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="235" width="732" height="644" key="#Inspections" timestamp="1599759519798">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="143" y="235" width="732" height="644" key="#Inspections/72.27.1848.1053@72.27.1848.1053" timestamp="1599759519798" />
+    <state x="119" y="238" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599740487885">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="119" y="238" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1599740487885" />
+    <state width="878" height="343" key="GridCell.Tab.0.bottom" timestamp="1600804093612">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="878" height="343" key="GridCell.Tab.0.bottom/72.21.1848.1059@72.21.1848.1059" timestamp="1600804093612" />
+    <state width="838" height="241" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600042129321" />
+    <state width="878" height="343" key="GridCell.Tab.0.center" timestamp="1600804093612">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="878" height="343" key="GridCell.Tab.0.center/72.21.1848.1059@72.21.1848.1059" timestamp="1600804093612" />
+    <state width="838" height="241" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600042129318" />
+    <state width="878" height="343" key="GridCell.Tab.0.left" timestamp="1600804093611">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="878" height="343" key="GridCell.Tab.0.left/72.21.1848.1059@72.21.1848.1059" timestamp="1600804093611" />
+    <state width="838" height="241" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600042129317" />
+    <state width="878" height="343" key="GridCell.Tab.0.right" timestamp="1600804093612">
+      <screen x="72" y="21" width="1848" height="1059" />
+    </state>
+    <state width="878" height="343" key="GridCell.Tab.0.right/72.21.1848.1059@72.21.1848.1059" timestamp="1600804093612" />
+    <state width="838" height="241" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600042129320" />
+  </component>
+</project>
